@@ -1,9 +1,9 @@
 export default {
   logo: <span style={{ fontWeight: 700 }}>Claude Code Learnings</span>,
   project: {
-    link: 'https://github.com/yuzhu-zhang_adevinta/claude-code-learnings',
+    link: 'https://github.com/yuzhuZ/claude-code-for-non-tech',
   },
-  docsRepositoryBase: 'https://github.com/yuzhu-zhang_adevinta/claude-code-learnings/blob/main',
+  docsRepositoryBase: 'https://github.com/yuzhuZ/claude-code-for-non-tech/blob/main',
   footer: {
     text: 'Claude Code Learnings by Yuzhu Zhang',
   },
